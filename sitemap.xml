@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yaolemo.github.io/posts/f9cd7d70.html</loc>
+    
+    <lastmod>2023-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yaolemo.github.io/posts/39e38786.html</loc>
     
     <lastmod>2023-06-25</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://yaolemo.github.io/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,21 +102,21 @@
   
   <url>
     <loc>https://yaolemo.github.io/tags/%E5%AE%9E%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%AE%80%E6%94%AF%E7%BA%A6%E6%9D%9F/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yaolemo.github.io/tags/ANSYS/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yaolemo.github.io/tags/%E5%90%8E%E5%A4%84%E7%90%86/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -115,8 +124,15 @@
 
   
   <url>
+    <loc>https://yaolemo.github.io/categories/ABAQUS/</loc>
+    <lastmod>2023-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yaolemo.github.io/categories/ANSYS/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

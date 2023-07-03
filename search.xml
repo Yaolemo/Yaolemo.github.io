@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>ABAQUS高版本打不开低版本文件的解决方法</title>
+      <link href="/posts/f9cd7d70.html"/>
+      <url>/posts/f9cd7d70.html</url>
+      
+        <content type="html"><![CDATA[<p>ABAQUS在建模过程中会生成.cae后缀名的模型数据库文件，用于记录模型信息和分析任务等。理论情况下，高版本的ABAQUS是可以打开低版本ABAQUS保存的cae文件，并自动进行模型版本转换。但笔者在实际操作过程中，会出现打不开客户微信发来的低版本cae文件的情况，出现如下报错，网络上也找不到相关的解决办法。后来偶然在一本书中寻得，原来只是一个地方出现了疏漏，与诸位分享。</p><p><img src="https://yaolemo.oss-cn-guangzhou.aliyuncs.com/2023/07/20230703194622.png?x-oss-process=style/watermark" alt="版本转换报错"></p><p>电脑端微信对聊天记录中的文件会自动下载，可能是出于安全的考虑，3.9版本后的微信都将默认保存的文件设置了”只读“的属性，这也就导致了高版本的ABAQUS转换cae文件时报错的问题。</p><p>解决办法也非常简单只需要在对应的.cae文件：右键&gt;属性&gt;常规属性里取消勾选”只读“即可，随后重新在高版本的ABAQUS CAE中打开。</p><p><img src="https://yaolemo.oss-cn-guangzhou.aliyuncs.com/2023/07/image-20230703172405013-684583.png?x-oss-process=style/watermark" alt="cae文件属性"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ABAQUS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实体模型简支约束 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>矩形梁实体模型如何施加简支约束及计算结果对比</title>
       <link href="/posts/39e38786.html"/>
       <url>/posts/39e38786.html</url>
